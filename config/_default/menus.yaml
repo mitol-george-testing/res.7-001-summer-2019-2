@@ -1,10 +1,13 @@
 leftnav:
 - identifier: 511b29ee4ef7afe6d23d0c59929b24d1
   name: Instructor Insights
-  url: /sections/instructor-insights
-  weight: 10
+  weight: 0
 - identifier: external-c427aad7c4644842b0486b69992fc2ba
   name: Online Publication
   url: https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about
-  weight: 1000
+  weight: 10
+- identifier: f8b62b63-a2fb-4d87-aafe-02218039a14a
+  name: test resource
+  url: content/resources/test-resource
+  weight: 20
 title: Left Nav
